@@ -1,4 +1,4 @@
-# Weather-Showcast 
+# Weather-App
 
 This is a simple weather forecast web application that displays the current weather in a city of your choice. It was developed using NodeJS, ExpressJS, and the Openweathermap API. This project was created as a part of my portfolio to showcase my skills as a developer.
 
